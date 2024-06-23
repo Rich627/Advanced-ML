@@ -1,0 +1,8 @@
+.DS_Store
+docs-db/
+docs/
+html/
+html-db/
+.env
+model/
+
